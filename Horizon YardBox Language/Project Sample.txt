@@ -1,0 +1,26 @@
+/Enter title/platform Game/Enter=game/
+
+
+
+
+
+
+
+
+-=-=-=-=-                                                                                                                                                                                                                                                                                                                                                                                                                             \End+game\
+[new level 1]                                                                                                                                                                                                                                                                                                                                                                                                                    LLLLLLLLLLLL
+
+<start place>                                                                                                                                                                                                                                                                                                                                                                                                                 (Finish place)                 
+-=-=-=-=                                                                                                                                                                                                                                                                                                                                                                                        <spike>                           LLLLL
+                                                                                                                                                                                                                                                                                                                                                                                                   /\/\/\/\/\
+                                                                                                                                                                                                                   +        +       +             +                                                                                                                        OOOOOOOOOOOOOO<platform>                                                                                
+                                                                                                                                                                                                                            <platform>                            VAVAVAVAVA<platform>
+                                                                                                                                                                                                     <platform>                                     
+                                                                                                                                                                                                     ____
+                                                     <platform>                                                                              <spike>
+___________________________________________________________/\/\/\/\/\/\/\/\/\/\/\      _                                                                               
+                                                                                                                                                                                            <platform>
+
+                                                                                                                                                              ========================================================
+                                                                                                                                                                                                      <lava>
+                                                                                                                                                                                                                                                                                                       

@@ -1,0 +1,76 @@
+Welcome to Horizon YardBox Language tutorial textbook
+
+WARNING:read this on full screen
+
+this is gonna be a long ride
+
+Page 1
+You need to read this whole tutorial
+if you are in this zip file you might notice that the programming language is a text file
+thats because a textfile is a notepad which means you could write on it
+
+if you enter the programming language you could do anything on it
+
+Page 2
+
+What are the coding symbols?
+
+the coding symblos is only < > v ^ [ ] { } ( ) _-+= (letters and numbers are allowed too)
+
+What are the stuff you can do in it?
+
+Honestly you can do anything with it you can make a game,art,book,game engine and a coding language too by just using coding symbols,letters and numbers
+
+is it easy?
+
+yes its 99% easy because of its simplicity style
+
+What is the player you need to control?
+
+your computer mouse arrow or your trakpad arrow if you have a laptop
+
+Page 3
+
+the types of program words
+
+/enter title/your title here/Enter=game/
+<start place> --> its a place where you start your simulation
+<platform>--> a script that makes the object you made as a platform   Example:                         <platform>
+                                                                                                                                                                  -----------------------------------------
+<ladder>--> a script that makes the object you made as a ladder   Example:   |=|
+ you need to drag your player up                                                                                        |=|
+                                                                                                                                                          |=|
+                                                                                                                                                   <ladder>
+
+<spike>-->a script that makes the object you made as a spike   Example:  /\/\/\
+if your player touches a spike                                                                                       <spike>
+ you need to drag your player back to the start place
+
+<lava>-->a script that makes the object you made as a lava   Example:    ===================
+ if your player touches a lava                                                                                               <lava>
+you need to drag your player back to the start place
+
+<slide>-->a script that makes the object you made as a slide   Example: \
+if your player touches the slide drag your player up or down                         \
+depending where the slide goes                                                                                   \ <slide>
+
+[new level 1] [new level 2] [new level 3] [new level 4] [new level 5] [new level 6] [new level 7] [new level 8] [new level 9] [new level 10] [new level 11] [new level 12]
+there is only 12 levels you need in your game
+
+<variable X>--> if you write this on something your player can not touch it
+
+<variable Y>--> if you write this on something it will act like an enemy and if the player touches it 
+the player will go back to the start place the way to kill the enemy is by pressing backspace
+
+(finish place)--> if the player touches it that means that you finished the game
+
+\end+game\
+
+<generate art>
+<generate book>
+
+Page 4
+
+this is just a reply
+
+if you want to learn more why dont you check our project samples.
